@@ -10,7 +10,7 @@
         <?php include_once commonBase . 'header.php';?>
         
         <div class="body-content container">
-            <h4>Page de téléchargement.</h4>
+            <h4>Page de téléchargements.</h4>
             <hr>
         </div>
             
